@@ -1,6 +1,6 @@
 TETRIS GAME
 
-Welcome to Tetris! This is a simple Tetris game built using [insert technologies/languages used].
+Welcome to Tetris! This is a simple Tetris game built using pygame.
 
 
 
